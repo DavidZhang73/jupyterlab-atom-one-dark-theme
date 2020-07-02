@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-atom-one-dark-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JupyterLab theme extension based on atom one dark.",
   "author": "DavidZ <davidbill@outlook.com>",
   "keywords": [
