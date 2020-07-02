@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>JupyterLab Atom One Dark Theme</h1>
+# JupyterLab Atom One Dark Theme
 
 [![Build Status](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme.svg?branch=master)](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme)
 [![NPM Version](https://badgen.net/npm/v/jupyterlab-atom-one-dark-theme)](https://www.npmjs.com/package/jupyterlab-atom-one-dark-theme)
