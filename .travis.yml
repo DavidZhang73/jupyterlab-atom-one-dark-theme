@@ -10,9 +10,6 @@ before_install:
   - pip install -U pip setuptools
   - nvm install 6
 script:
-  - jupyter nbextension list
-  - jupyter nbextension enable --py --sys-prefix jupyterlab-atom-one-dark-theme
   - pip install jupyterlab
-  - jupyter labextension list
+  - jupyter labextension install DavidZhang73/jupyterlab-atom-one-dark-theme
   - jupyter labextension list 2>&1 | grep -q jupyterlab-atom-one-dark-theme
-  - jupyter labextension link
