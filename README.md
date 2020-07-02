@@ -2,9 +2,9 @@
 
 # JupyterLab Atom One Dark Theme
 
-[![Build Status](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme.svg?branch=master)](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme)
+![Test](https://github.com/DavidZhang73/jupyterlab-atom-one-dark-theme/workflows/Test/badge.svg?branch=master)
+![Publish to NPM](https://github.com/DavidZhang73/jupyterlab-atom-one-dark-theme/workflows/Publish%20to%20NPM/badge.svg)
 [![NPM Version](https://badgen.net/npm/v/jupyterlab-atom-one-dark-theme)](https://www.npmjs.com/package/jupyterlab-atom-one-dark-theme)
-[![NPM Downloads](https://badgen.net/npm/dt/jupyterlab-atom-one-dark-theme)](https://www.npmjs.com/package/jupyterlab-atom-one-dark-theme)
 
 _A JupyterLab theme extension based on atom one dark._
 
