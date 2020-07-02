@@ -1,6 +1,12 @@
-# JupyterLab Atom One Dark Theme [![Build Status](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme.svg?branch=master)](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme)
+<div align="center">
 
-A JupyterLab theme extension based on atom one dark.
+JupyterLab Atom One Dark Theme
+
+[![Build Status](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme.svg?branch=master)](https://www.travis-ci.org/DavidZhang73/jupyterlab-atom-one-dark-theme)
+
+_A JupyterLab theme extension based on atom one dark._
+
+</div>
 
 ## Screenshot
 
