@@ -1,6 +1,6 @@
 language: python
 python:
-  - 3.6
+  - 3.8
 sudo: false
 cache:
   pip: true
@@ -9,8 +9,6 @@ cache:
 before_install:
   - pip install -U pip setuptools
   - nvm install 6
-install:
-  - pip install --upgrade ".[test]" -v
 script:
   - jupyter nbextension list
   - jupyter nbextension enable --py --sys-prefix jupyterlab-atom-one-dark-theme
