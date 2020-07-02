@@ -1,0 +1,23 @@
+/* Style for jupyterlab-execute-time */
+.execute-time {
+  padding: 6px 0;
+  border-top: none;
+  font-family: "JetBrains Mono";
+  font-size: 12px;
+}
+
+.execute-time::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f017";
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+/* Style for jupyterlab_variableinspector */
+.jp-VarInspector-deleteButton {
+  cursor: pointer;
+}
+
+.jp-VarInspector-varName {
+  cursor: pointer;
+}
