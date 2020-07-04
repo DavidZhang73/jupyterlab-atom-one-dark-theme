@@ -38,7 +38,9 @@ jupyter labextension install DavidZhang73/jupyterlab-atom-one-dark-theme
 
 2. Extension Manager
 
-  TODO
+Extension Manager -> SEARCH `atom` -> `SEARCH RESULTS` -> install `jupyterlab-atom-one-dark-theme`
+
+![Extension Manager](https://github.com/DavidZhang73/jupyterlab-atom-one-dark-theme/raw/master/screenshot/extension-manager.png)
 
 ### Enable Theme
 
