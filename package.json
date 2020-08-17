@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-atom-one-dark-theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A JupyterLab theme extension based on atom one dark.",
   "author": "DavidZ <davidbill@outlook.com>",
   "keywords": [
@@ -30,8 +30,8 @@
     "watch:webpack": "webpack --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^2.0.0",
-    "@jupyterlab/apputils": "^2.0.0"
+    "@jupyterlab/application": "^2.2.2",
+    "@jupyterlab/apputils": "^2.2.2"
   },
   "devDependencies": {
     "rimraf": "~2.6.2",
